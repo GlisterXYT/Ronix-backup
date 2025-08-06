@@ -15595,8 +15595,8 @@ const Kt = z("Zap", [
             icon: u.jsx(m5, {
                 size: 18
             }),
-            version: "this is a meme",
-            url: "",
+            version: "v.1.0.0",
+            url: "https://loot-link.com/s?II1JdfST",
             manualStatus: null
         }, {
             id: "macos",
@@ -15604,36 +15604,36 @@ const Kt = z("Zap", [
             icon: u.jsx(Af, {
                 size: 18
             }),
-            version: "this is a meme",
-            url: "",
-            manualStatus: "this is a meme"
+            version: "v.1.0.0",
+            url: "https://loot-link.com/s?II1JdfST",
+            manualStatus: "Released"
         }, {
-            id: "this is a meme",
-            name: "this is a meme",
+            id: "ios",
+            name: "iOS",
             icon: u.jsx(Af, {
                 size: 18
             }),
-            version: "this is a meme",
+            version: "v.1.0.0",
             url: "",
             manualStatus: null
         }, {
             id: "android",
-            name: "this is a meme",
+            name: "Android",
             icon: u.jsx(d5, {
                 size: 18
             }),
-            version: "this is a meme",
-            url: "",
+            version: "v.1.0.0",
+            url: "https://loot-link.com/s?II1JdfST",
             manualStatus: null
         }, {
             id: "vietnam",
-            name: "this is a meme",
+            name: "Vietnam",
             icon: u.jsx("span", {
                 className: "text-lg",
                 children: "🇻🇳"
             }),
-            version: "this is a meme",
-            url: "",
+            version: "v.1.0.0",
+            url: "https://www.mediafire.com/file/6zmd9n52vxu16tm/%25F0%259F%2587%25BB%25F0%259F%2587%25B3Ronix_682_VIETNAM%25F0%259F%25A4%258D.apk/file",
             manualStatus: null,
             flag: null
         }], w = b => {
