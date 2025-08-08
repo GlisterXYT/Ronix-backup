@@ -14753,7 +14753,7 @@ const Kt = z("Zap", [
     A5 = ({
         children: e
     }) => {
-        const [t, n] = k.useState(() => localStorage.getItem("ronix-theme") || "purple"), r = o => {
+        const [t, n] = k.useState(() => localStorage.getItem("ronix-theme") || "blue"), r = o => {
             n(o), localStorage.setItem("ronix-theme", o), i(na[o])
         }, i = o => {
             const a = document.createElement("style");
